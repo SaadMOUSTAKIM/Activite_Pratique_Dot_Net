@@ -1,0 +1,15 @@
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\bin\Debug\net6.0\Activite_Pratique_Dot_Net.exe
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\bin\Debug\net6.0\Activite_Pratique_Dot_Net.deps.json
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\bin\Debug\net6.0\Activite_Pratique_Dot_Net.runtimeconfig.json
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\bin\Debug\net6.0\Activite_Pratique_Dot_Net.dll
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\bin\Debug\net6.0\Activite_Pratique_Dot_Net.pdb
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.csproj.AssemblyReference.cache
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.AssemblyInfoInputs.cache
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.AssemblyInfo.cs
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.csproj.CoreCompileInputs.cache
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.dll
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\refint\Activite_Pratique_Dot_Net.dll
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.pdb
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\Activite_Pratique_Dot_Net.genruntimeconfig.cache
+C:\Users\Saad\Desktop\GLSID3\Activite_Pratique_Dot_Net\obj\Debug\net6.0\ref\Activite_Pratique_Dot_Net.dll

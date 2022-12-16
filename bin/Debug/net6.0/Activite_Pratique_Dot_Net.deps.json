@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Activite_Pratique_Dot_Net/1.0.0": {
+        "runtime": {
+          "Activite_Pratique_Dot_Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activite_Pratique_Dot_Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
